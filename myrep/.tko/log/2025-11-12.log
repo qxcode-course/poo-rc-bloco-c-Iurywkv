@@ -1,0 +1,9 @@
+2025-11-12 13:55:07, MOVE, v:1, k:poo@array, mode:DOWN
+2025-11-12 13:57:24, MOVE, v:1, k:poo@budega, mode:DOWN
+2025-11-12 13:57:26, MOVE, v:1, k:poo@lapiseira, mode:DOWN
+2025-11-12 13:57:29, MOVE, v:1, k:poo@lapiseira, mode:PICK
+2025-11-12 13:57:44, MOVE, v:1, k:poo@lapiseira, mode:BACK
+2025-11-12 13:57:51, MOVE, v:1, k:poo@pula-pula, mode:DOWN
+2025-11-12 13:57:53, MOVE, v:1, k:poo@cinema, mode:DOWN
+2025-11-12 13:57:54, MOVE, v:1, k:poo@tabuleiro, mode:DOWN
+2025-11-12 13:57:56, MOVE, v:1, k:poo@junkfood, mode:DOWN
